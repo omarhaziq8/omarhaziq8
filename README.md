@@ -38,11 +38,11 @@ experience to provide insights beyond statistical analyses.*
 
 *2) Cardiovascular Heart Disease Prediction*
 
-*2) BBC_news Classification*
+*3) BBC_news Classification*
 
-*2) Customer Segmentation Analysis*
+*4) Customer Segmentation Analysis*
 
-*2) Malaysia Covid-19 New Cases Prediction*
+*5) Malaysia Covid-19 New Cases Prediction*
 
 
 
