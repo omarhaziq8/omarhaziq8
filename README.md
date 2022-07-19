@@ -44,7 +44,7 @@ experience to provide insights beyond statistical analyses.*
 
 *5) Malaysia Covid-19 New Cases Prediction*
 
-
+*6) Top-Glove Stock Price Prediction*
 
 
 
